@@ -1,3 +1,3 @@
 ### Introduction
 
-As a programmer, I need write some scripts sometimes so that it is necessary to learn a script language.  Shell is arguably the best choice since systems  based on or originated from UNIX  are predominantly used around the world.
+As a programmer, it is necessary to learn a script language to do work effectively and to save time considerably.  Shell programming language is arguably the best choice since  it is used as the default tool in a large proportion of operating systems  based on or originated from  the predominant UNIX and Linux around the world. 
