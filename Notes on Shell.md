@@ -1,6 +1,12 @@
-0, Shell Tutorials
+### 0, Shell Tutorials
 
 The website is [here](https://www.shellscript.sh).
+
+What shell is running in an OS?
+
+```shell
+linux > echo $SHELL
+```
 
 ### 1, Change the prompt symbol
 
@@ -17,3 +23,4 @@ PS1="$ " ; export PS1 # If you are a root the "#" will be replace by "$".
 
 ### 3, A first script
 
+1. `#!` indicates that whatever kind of shell, such as `ksh`, `csh` or anything else, is used, the following code will be interpreted by "Bourne Shell".
